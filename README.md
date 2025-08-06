@@ -1,2 +1,132 @@
-# .github
-iM Challenge
+# 🏦 iM뱅크와 함께하는 저축 챌린지 서비스 iM Challenge
+
+- 참여: [![미래내일_청년일경험 프로젝트형](https://img.shields.io/badge/미래내일_청년일경험_프로젝트형-0066CC?style=for-the-badge&logo=googlescholar&logoColor=white)](https://yw.work24.go.kr/d/a/selectItrnPrjtEsgPrgmDtal.do)
+- 기간: 2025.06.09 ~ 2025.08.03
+- 프로젝트명: iMbank 360° 프로젝트
+- 참여기업명: (주)아이엠뱅크
+
+<img width="1920" height="1080" alt="PPT 1" src="https://github.com/user-attachments/assets/e0db852c-ce96-4c8c-b26d-5b65b90889d4" />
+
+> 저희 iMpact팀은 일상 속에서 저축을 조금 더 쉽고, 꾸준히 이어갈 수 있도록 돕는 저축 챌린지 서비스 iM Challenge를 기획했습니다.<br>단순한 뱅킹을 넘어, 재미와 습관 형성을 함께 잡을 수 있는 금융 여정을 제안합니다.
+---
+<img width="1920" height="1080" alt="PPT 2" src="https://github.com/user-attachments/assets/9df1302a-91dc-4e7d-9758-26f5beb14381" />
+
+> 발표는 크게 8개의 흐름으로 구성했습니다.<br>먼저 기획 배경과 문제 인식, 그리고 우리가 제안한 해결 방안을 소개하고,<br>이후 대상 사용자와 서비스 흐름, 주요 기능을 중심으로 구체적인 내용을 보여드립니다.<br>그다음 기대 효과와 서비스 확장성을 짚어보고,<br>마지막으로 시연 영상과 팀 구성 및 디자인 툴 소개로 마무리하겠습니다.
+---
+<img width="1920" height="1080" alt="PPT 3" src="https://github.com/user-attachments/assets/c50e4497-32e3-4ef5-a90e-06d184ab82c2" />
+
+> 현재 사용자들은 평균 4.6개의 은행 앱을 동시에 사용하는 등, 금융 앱 간 경쟁이 매우 치열한 상황입니다.<br>이에 따라 단순한 기능 중심의 서비스만으로는 사용자 유입과 충성도 확보에 한계가 있습니다.
+
+> 우리는 해외 금융 앱의 게임형 챌린지와 미션 기반 UI가 체류 시간과 재방문을 유도하는 데 효과적이라는 점에 주목했습니다.<br>반면 iM뱅크의 기존 챌린지는 접근성이 낮고, 반복 참여를 이끌어낼 수 있는 장치가 부족해<br>지속적인 사용을 유도하기에는 미흡한 점이 있었습니다.
+
+> 이러한 배경에서, 재미와 몰입 요소를 더한 새로운 방식의 저축 챌린지를 제안하게 되었습니다.
+
+<img width="1920" height="1080" alt="PPT 4" src="https://github.com/user-attachments/assets/2d70b35f-1e85-4fde-aa55-aa051b919c0a" />
+
+> 저희는 단순한 저축 기능을 넘어, 게임화된 챌린지 시스템을 중심으로 한 참여형 금융 플랫폼을 제안합니다.<br>개인 또는 공동 챌린지를 자유롭게 설정하고, 단계별 보상과 시각적 피드백, 유저 간 상호작용을 통해<br>재미있게 금융 루틴을 만들 수 있도록 설계했습니다.
+
+> 특히, 챌린지 진행률, 스탬프 보드, 응원 버튼 등을 통해<br>사용자가 직접 참여하고 동기를 부여받는 몰입형 구조를 구현한 것이 핵심입니다.
+
+> 이를 통해 금융 초입자의 진입 장벽을 낮추고,<br>전 연령대가 쉽게 접근 가능한 지속 가능한 금융 습관 형성을 기대할 수 있습니다.
+---
+<img width="1920" height="1080" alt="PPT 5" src="https://github.com/user-attachments/assets/431026d3-5379-4e56-b938-faeba64d42bc" />
+
+> iM 챌린지는 “적금은 부담스럽다”, “재미있게 돈을 모으고 싶다”, “작은 금액이라도 습관을 들이고 싶다”는<br>실제 사용자들의 솔직한 니즈에서 출발했습니다.
+
+> 단순히 MZ세대에 국한되지 않고,<br>저축에 대한 동기가 필요하거나 색다른 금융 경험을 원하는 모든 연령층이 타겟입니다.<br>뱅킹 앱을 사용할 수 있는 누구나 자연스럽게 챌린지에 참여할 수 있도록 구성했습니다.
+---
+<img width="1920" height="1080" alt="PPT 6" src="https://github.com/user-attachments/assets/c224de45-8810-4ae0-9ee1-0defa4ff39c1" />
+
+> 서비스 흐름은 사용자가 챌린지 목표를 설정하는 것에서 시작됩니다.<br>개인 또는 그룹으로 참여한 후, 일일 또는 주간 단위의 퀘스트를 수행하면서 포인트를 적립하고,<br>알림 기능을 통해 이체와 미션 수행을 놓치지 않도록 돕습니다.<br>적립된 포인트는 iM샵에서 쿠폰이나 혜택으로 활용할 수 있으며,<br>챌린지를 완주하면 보상 룰렛 이벤트가 제공됩니다.<br>이후 사용자의 저축 습관과 데이터를 기반으로 AI가 적절한 금융상품을 추천해 실질적인 금융활동으로 이어지는 구조입니다.
+
+<img width="1920" height="1080" alt="PPT 6-2" src="https://github.com/user-attachments/assets/f31dc07a-0e24-48d4-a034-272ac5cbdc4b" />
+
+> 위 사용자 흐름을 전체적으로 정리한 플로우 차트를 확인할 수 있습니다.
+---
+<img width="1920" height="1080" alt="PPT 7" src="https://github.com/user-attachments/assets/04184f0e-8e43-4b24-a119-3d45d99f9a48" />
+
+> 챌린지 서비스의 첫 번째 주요 기능은 ‘챌린지 생성’입니다.<br>사용자는 개인 또는 공동 챌린지를 선택해 자신에게 맞는 방식으로 참여할 수 있고,<br>챌린지명, 목표 금액, 기간 등을 자유롭게 입력해 유연하게 설정할 수 있습니다.<br>이체 방식은 자동과 수동 중 선택 가능하며,<br>자동 이체는 정해진 주기에 따라 설정된 금액이 자동으로 이체되고, 수동 이체는 알림을 통해 직접 입금하도록 유도됩니다.<br>또한 테마 설정과 배경 이미지 업로드 기능을 통해 나만의 챌린지를 꾸밀 수 있는 커스터마이징 옵션도 제공합니다.
+
+<img width="1920" height="1080" alt="PPT 8" src="https://github.com/user-attachments/assets/8c4f62c5-380b-4bb0-813d-ffe2b17fb85c" />
+
+> 챌린지 진행 상황을 한눈에 확인할 수 있는 대시보드입니다.<br>개인과 공동 챌린지 모두 누적 저축 금액과 목표 달성률을 실시간으로 시각화해 보여주며,<br>개인 챌린지에서는 ‘저축 스탬프 보드’를 통해 달성 단계를 시각적으로 표현해 게임처럼 여정을 즐길 수 있도록 구성했습니다.<br>공동 챌린지에서는 친구들과의 저축 현황이 순위 형태로 표시되며, ‘응원 버튼’을 통해 서로 격려할 수 있어 상호작용을 유도합니다.<br>또한 선착순 리워드가 제공되어 공동 챌린지의 참여 동기를 더욱 높여줍니다.
+
+<img width="1920" height="1080" alt="PPT 9" src="https://github.com/user-attachments/assets/1bad00a7-0d35-421f-8e09-191725f258cf" />
+
+> iM Challenge의 보상 시스템입니다.<br>사용자는 챌린지 참여만으로도 시작 포인트를 받고, 저축 달성률이 오를 때마다 단계별 보상을 추가로 받을 수 있습니다.<br>또한 친구 초대, 연속 접속 등 다양한 미션을 통해 보너스 포인트도 얻을 수 있으며,<br>완주 시에는 룰렛 이벤트로 기프티콘이나 포인트, 할인권 등의 실질적인 보상이 제공됩니다.<br>이렇게 획득한 포인트는 iM샵에서 간편하게 사용할 수 있고, 금융상품 우대 혜택으로도 연계가 가능해 실용성과 재미를 동시에 잡았습니다.
+
+<img width="1920" height="1080" alt="PPT 10" src="https://github.com/user-attachments/assets/fa421579-b1a0-47c4-8c95-32fd5d0e098c" />
+
+> AI 기반 금융상품 추천 기능입니다.<br>챌린지를 통해 기록된 저축 습관과 금액 데이터를 기반으로, 사용자의 성향에 맞는 금융상품을 자동으로 제안합니다.<br>예·적금뿐 아니라 포트폴리오, 펀드 등 다양한 자산관리 옵션으로 연결되며,<br>단순한 저축을 넘어 자산 운용으로 자연스럽게 이어지는 금융 여정을 지원합니다.
+
+<img width="1920" height="1080" alt="PPT 11" src="https://github.com/user-attachments/assets/9ae87458-f137-49fe-b3d9-9aa56181b9e8" />
+
+> 알림 및 SNS 공유 기능입니다.<br>챌린지 실천을 유도하기 위해 이체 일정 전후로 리마인드 알림을 제공하고,<br>진행 상황을 실시간으로 피드백하여 저축 루틴 형성을 돕습니다.<br>또한, SNS 공유를 통해 친구를 초대하면, 초대한 사람과 초대받은 모두에게 보너스 포인트가 지급되어<br>참여를 자연스럽게 확산시킬 수 있는 구조를 마련했습니다.
+
+<img width="1920" height="1080" alt="PPT 12" src="https://github.com/user-attachments/assets/e1c89b1e-ddde-4311-bfba-4839455fd8e4" />
+
+> 위젯 서비스입니다. 사용자가 앱을 실행하지 않아도, 홈 화면이나 잠금화면 위젯을 통해<br>D-day, 누적 금액, 목표 달성률 등 챌린지 정보를 실시간으로 직관적으로 확인할 수 있습니다.<br>게이지 바 기반의 시각적 요소를 통해 참여 동기를 높이며,<br>작은 노출이 반복되어 자연스럽게 금융 루틴을 이어가도록 설계했습니다.
+---
+### 📽️ iM Challenge 시연 영상
+[![iM Challenge Demo](https://img.youtube.com/vi/AOX2C7TrdNU/hqdefault.jpg)](https://www.youtube.com/watch?v=AOX2C7TrdNU)
+
+> iM Challenge의 실제 사용 화면을 소개하겠습니다.<br>먼저, 아이엠뱅크 홈 화면 하단 퀵 액션을 통해 챌린지 메뉴에 진입할 수 있으며,<br>챌린지 소개 화면에서는 서비스 설명, 특징, 혜택, 유의사항 등을 확인할 수 있습니다.
+
+> ‘시작하기’ 버튼을 누르면 진행 중인 챌린지를 한눈에 볼 수 있는 메인 화면으로 이동하고,<br>새 챌린지를 생성할 경우, 유형과 카테고리를 선택한 뒤 챌린지명, 설명, 목표 금액, 기간 등을 자유롭게 설정할 수 있습니다.<br>이체 방식과 이미지 설정 후 미리보기를 통해 최종 확인하고 챌린지를 시작하게 됩니다.
+
+> 진행 중인 개인 챌린지는 대시보드 형식으로 시각화되며, 정보 편집도 가능합니다.<br>공동 챌린지의 경우, 대시보드 외에도 SNS 공유 기능을 통해 참여를 유도할 수 있습니다.
+
+> 이후 일일·주간 퀘스트 수행, 챌린지 목표 달성 시 보상 룰렛을 통해 포인트나 쿠폰을 획득할 수 있고,<br>AI 기반의 금융상품 추천 기능을 통해 개인 맞춤형 예·적금, 포트폴리오 상품 제안도 확인할 수 있습니다.
+
+> 포인트 및 쿠폰 내역은 전용 모달창을 통해 확인되며, iM샵과 연동된 ‘사용하기’ 버튼을 통해 실제로 사용할 수 있습니다.
+
+> 이외에도 챌린지 관련 알림은 스마트폰 알림 스택에서 확인할 수 있고,<br>홈/잠금 화면 위젯을 통해 챌린지 정보를 실시간으로 확인할 수 있도록 다양한 크기의 위젯 설정도 지원합니다.
+---
+<img width="1920" height="1080" alt="PPT 14" src="https://github.com/user-attachments/assets/7180c7dc-7ded-4bc7-b9b4-5b1e68fd3186" />
+
+> 챌린지 서비스가 가져올 기대효과로는 <br>우선, 반복적인 금융 루틴을 통해 자연스럽게 저축 습관이 형성되며, 이는 장기적인 사용자 유입과 충성도로 이어질 수 있습니다.<br>또한, 대시보드·피드백·위젯 같은 시각적 자극 요소는 사용자의 관심을 끌어내어 앱 체류시간과 재방문율을 높입니다.<br>이처럼 재미와 몰입을 더한 경험 중심 설계를 통해 기존 금융 앱보다 더 친근한 이미지로 브랜드 호감도를 향상시킬 수 있습니다.<br>마지막으로, 챌린지를 통해 적립한 포인트와 쿠폰은 iM샵 소비나 금융상품 예치로 연결되어,<br>다시 챌린지로 돌아오는 자산 선순환 구조가 자연스럽게 형성됩니다.
+---
+<img width="1920" height="1080" alt="PPT 15" src="https://github.com/user-attachments/assets/71a0ab7e-2a36-4c92-a916-4db43183de9c" />
+
+> iM Challenge의 확장 가능성입니다.<br>첫째, 만보기 등 건강 데이터를 활용한 앱테크 연계를 통해 걸음 수와 저축을 연결함으로써,<br>일상 속 행동이 금융 루틴으로 이어지는 새로운 동기부여 구조를 제시할 수 있습니다.<br>둘째, 기존 iM뱅크의 모임통장 서비스와 연계하여 공동 챌린지 금액을 통합 관리할 수 있어,<br>그룹 자산 운영의 연속성과 효율성이 높아집니다.<br>셋째, OK캐쉬백, GS&포인트, L.POINT 등 외부 포인트 제휴 확대를 통해 리워드 사용처를 다양화함으로써<br>사용자 만족도를 높이고 생태계를 확장할 수 있습니다.
+---
+<img width="1920" height="1080" alt="PPT 16" src="https://github.com/user-attachments/assets/5fe23945-35d2-4a8a-aff4-57899a3bf5a2" />
+
+> 저희 팀은 아이엠뱅크의 디지털개발부 디지털뱅킴틴 이지훈 프로님과 함께했고, 팀원별 역할입니다.
+---
+<img width="1920" height="1080" alt="PPT 17" src="https://github.com/user-attachments/assets/5e990821-9d36-48b2-8445-2331ba2f4c98" />
+
+> 원활한 협업을 위한 디자인 시스템과 사용한 툴입니다.
+
+## 📝 결과 보고서
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b96c567d-e546-48ce-b2f0-65d07a6a377e" width="49%" />
+  <img src="https://github.com/user-attachments/assets/b6e33dfe-39d4-4834-a418-072e43946997" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7518ea30-7e31-4dac-8f5d-720a5f91930b" width="49%" />
+  <img src="https://github.com/user-attachments/assets/99f96f60-2d8d-4a18-b756-009edb274379" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebdad92c-1c1a-4f6e-a033-fe40dc371a1a" width="49%" />
+  <img src="https://github.com/user-attachments/assets/5782bd1a-8d7b-4e1b-82df-7b9503063fa3" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f798036d-7dd1-4b1a-b2c6-6a770476ab25" width="49%" />
+  <img src="https://github.com/user-attachments/assets/dd350135-0cef-49cb-bab4-5a32b370feda" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/621dc091-317d-463b-a158-00b5b6c7ef92" width="49%" />
+  <img src="https://github.com/user-attachments/assets/f933f555-7657-4f7e-8366-fe2dda13dab8" width="49%" />
+</p>
+
+## 🤩 비하인드
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdb43211-7156-4c30-84ce-76cdaa7c2f61" width="29%" />
+  <img src="https://github.com/user-attachments/assets/9b40dc6e-1e13-4a0a-873b-e7e595d7c9f2" width="29%" />
+  <img src="https://github.com/user-attachments/assets/3d5332cd-829f-434b-84a1-412a967043df" width="39%" />
+</p>
